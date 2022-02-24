@@ -1,0 +1,1035 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A moderate expedient for preventing of popery and the more effectual suppression of Jesuits and priests, without giving them the vain-glory of pretending to martyrdom / by a person of quality.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51061</idno>
+            <idno type="STC">Wing M2324</idno>
+            <idno type="STC">ESTC R13081</idno>
+            <idno type="EEBO-CITATION">12254758</idno>
+            <idno type="OCLC">ocm 12254758</idno>
+            <idno type="VID">57340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51061)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57340)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 155:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A moderate expedient for preventing of popery and the more effectual suppression of Jesuits and priests, without giving them the vain-glory of pretending to martyrdom / by a person of quality.</title>
+                  <author>Person of quality.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from NUC pre-1956.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:57340:1"/>
+            <pb n="1" facs="tcp:57340:1" rendition="simple:additions"/>
+            <p>A MODERATE EXPEDIENT FOR Preventing of Popery, AND The more
+Effectual Suppreſſion OF JESUITS and PRIESTS, Without giving them the
+Vain-glory OF PRETENDING to MARTYRDOM.</p>
+            <p>By a Perſon of Quality.</p>
+         </div>
+         <div type="text">
+            <p>
+               <seg rend="decorInit">I</seg> Am not ignorant that this latter Age hath brought forth a
+ſwarm of buſie heads, which meaſure the great Myſteries of State by the
+Rule of their ſelf-conceited Wiſdome: but if they would conſi<g ref="char:EOLhyphen"/>der that
+the Common-wealth, governed by grave Counſellours, is like unto a Ship
+directed by a skilful Pilot, to whom the ne<g ref="char:EOLhyphen"/>ceſſities of occaſions, and
+grounds of Reaſon why he ſteereth the Helm to this or that point of the
+Compaſs, are better known, than to thoſe that ſtand aloof off; they would
+perhaps be more ſparing, if not more wary in their Reſolutions.</p>
+            <p>For my own particular, I muſt confeſs that I am naturally too
+much inclined to his opinion, who once ſaid, <hi>Qui bene latuit, bene
+vixit;</hi> and freſhly recalling to mind the ſay<g ref="char:EOLhyphen"/>ing of <hi>Functius</hi>
+to his Friend at the hour of his untimely Death: 
+<q> 
+                  <l>
+                     <hi>Diſce, meo exemplo, mandato munere fungi:</hi>
+                  </l> 
+                  <l>
+                     <hi>Et fuge ceu Peſtem,</hi>
+                     <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q>
+            </p>
+            <p>I could eaſily forbear to make my Hand-writing the Record of any
+Opinion; which nevertheleſs I proteſt to maintain rather problematically,
+than by the way of a conclu<g ref="char:EOLhyphen"/>ſive aſſertion: therefore, without waſting
+precious time any longer with needleſs Pro<g ref="char:EOLhyphen"/>logue, I will briefly ſet down
+the Queſtion in the Terms following:</p>
+            <p>
+               <hi>Whether it be more expedient to ſuppreſs Popiſh
+practices againſt the due Allegiance to his Majeſty, by the ſtrict
+execution of the preſent Laws touching</hi> Jeſuits <hi>and</hi> Seminary
+Prieſts; <hi>or to reſtrain them to cloſe Priſon during life, if no
+Reformation following.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:57340:2"/> The doubt propounded conſiſting of two
+Branches, neceſſarily requireth to be diſtin<g ref="char:EOLhyphen"/>ctly handled, that by
+comparing either part, the conveniency mentioned in the Queſti<g ref="char:EOLhyphen"/>on may be
+cleered with more facility.</p>
+            <list>
+               <item>1. In favour of the firſt Diviſion there are not a few,
+who grounding themſelves on an ancient Proverb,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>A dead man bites not,</hi>
+affirm that ſuch are dangerous to be preſerved alive, who being guilty,
+condemned, and full of fear, are likely, for purchaſe of life and liberty, to
+engage their utmoſt in deſperate adventures againſt their King and
+Country.</item>
+               <item>2. No leſs is it to be feared, that while the Sword of
+Juſtice is remiſs in cutting off hainous offenders againſt the dignity of
+the Crown, the miſled <hi>Papal</hi> multitude in the interim, may enter into
+a jealous ſuſpence, whether that forbearance proceed from the <hi>fear</hi>
+of exaſperating their deſperate humours, or that it is now become
+<hi>queſtionable,</hi> whether the execution of their Prieſts be ſimply
+for <hi>matter of State,</hi> or pretended quarrel for Re<g ref="char:EOLhyphen"/>ligion.</item>
+               <item>3. And whereas in a remedileſs inconvenience, it is lawful
+to uſe the <hi>extremity</hi> of Laws againſt ſome <hi>ſew,</hi> that
+<hi>many</hi> by terrour of the Example may be <hi>reformed;</hi> what hope can
+there be, that Clemency may tame their hearts, who interpret his Majeſties
+grace in tranſporting their Prieſts out of this Realm, to be a meer ſhift
+to rid the Priſons of thoſe whom Conſcience could not condemn of any
+<hi>capital</hi> Crime?</item>
+               <item>4. Neither are their vaunting <hi>whiſperings</hi> to be
+neglected, by which they ſeek to con<g ref="char:EOLhyphen"/>firm the fearful Souls of their Party,
+and to inveigle the ignorant, doubtful, or diſconten<g ref="char:EOLhyphen"/>ted perſons: for if
+the glorious extolling of their <hi>powerful Friends,</hi> and the expecting of
+a <hi>golden day</hi> be ſuffered to win credit with the meaner ſort, the
+relapſe cannot be ſmall, or the means eaſie to reform the Errour, without
+a general combuſtion of the State.</item>
+               <item>5. Let experience ſpeak ſomewhat in this behalf, which
+hath evidently deſcried with<g ref="char:EOLhyphen"/>in the current of few years, That the
+<hi>forbearance of Severity</hi> hath multiplied their <hi>Roll</hi> in ſuch
+manner, that it remains as a <hi>Corroſive</hi> to thouſands of his
+Majeſties well-affected Subjects.</item>
+               <item>6. To what purpoſe ſerves it, to muſter the names of
+the Proteſtants, or to vaunt them to be <hi>ten</hi> for one of the
+<hi>Roman</hi> Faction, as if bare figures of numeration could pre<g ref="char:EOLhyphen"/>vail
+againſt an <hi>united Party,</hi> reſolved and adviſed aforehand how to
+turn their faces with aſſurance unto all dangers, while in the mean time,
+the Proteſtants neſtling in vain ſecu<g ref="char:EOLhyphen"/>rity, ſuffer the <hi>Weed</hi> to
+grow up that threatneth their bane and mercileſs ruine?</item>
+               <item>7. Sometimes the <hi>Oath of Supremacy</hi> choaked their
+preſumptuous imaginations, and yet could not that infernal Smoak be wholly
+ſmothered, nor the Locuſts iſſuing thereout be cleanſed from the face
+of this Land. Now that the Temporal power of the King, contained in the
+<hi>Oath of Allegiance,</hi> is by the <hi>Papal See,</hi> and many of the
+Adorers thereof, impudently avowed to be unlawful; ſhall the broachers of
+ſuch Doctrine be ſuffered to <hi>live,</hi> yea to live and be received of
+us, for whoſe deſtruction they daily ſigh and practice?</item>
+               <item>8. To be a right <hi>Popiſh Prieſt,</hi> in true
+Engliſh ſenſe, <hi>is to bear the Character of a diſloyal Renegade, one
+that hath caſt off his natural Obedience to his Soveraign, by ſwearing
+Homage to a Forreign Head.</hi> Whom, if by connivance he ſhall let ſlip,
+or chaſtiſe with a light hand, what immunity may not traiterous Delinquents
+in leſſer degrees expect or chal<g ref="char:EOLhyphen"/>lenge after a ſort, in Equity and
+Juſtice?</item>
+               <item>9. <hi>If there were no Receivers, there would be no
+Thieves:</hi> Likewiſe, if there were no Harbourers of the
+<hi>Jeſuits,</hi> it is to be preſumed that they would not trouble this
+Iſle with their preſence: Therefore Rigor muſt be extended againſt the
+Receiver, that the <hi>Jeſuit</hi> may be kept out of doors: were it then
+indifferent Juſtice to hang up the Acceſſary, and let the Principal go
+free; namely, to ſuffer the <hi>Prieſt</hi> to draw his breath at length,
+while the Entertainer of him under his Roof, ſubmits his body to the
+Executioners hand? Without doubt, if it be fit to forbear the chief, it will be
+neceſſary to receive the ſecond Offender into protection: wherewith a
+miſchief muſt enſue of continual <hi>Expence,</hi> and ſcandalous
+reſtraint of ſo great a number.</item>
+               <item>10. <hi>Reputation</hi> is one of the principal Arteries of
+the Common-wealth; which <hi>Ma<g ref="char:EOLhyphen"/>xime</hi> is ſo well known to the Secretaries
+of the <hi>Papacy,</hi> that by private Forgeries and publick impreſſions
+of Calumnies, they endeavour to wound us in that vital part. How<g ref="char:EOLhyphen"/>ſoever
+therefore, ſome few of that ſtamp being better tempered than their fellows
+in <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of our Government, have not
+ſpared to affirm, <hi>That Tyranny is unjuſtly aſcribed <pb n="3" facs="tcp:57340:2"/>thereunto, for ſo much as Freedom of Conſcience, after a ſort,
+may be redeemed for money;</hi> Notwithſtanding there want not many
+Pamphleteers of their ſide, who opprobriouſly caſt in our teeths the
+converting of the Penalty inflicted on Recuſants, and refuſers of the
+<hi>Oath of Allegiance,</hi> from the Kings Exchequer to a particular Purſe.
+Surely we cannot preſume that theſe <hi>Libellers</hi> may be diſſwaded
+from ſpitting out their Venome malici<g ref="char:EOLhyphen"/>ouſly againſt us, when they ſhall
+ſee their <hi>Prieſts</hi> mewed up without further proceſs of Law: for
+either they will attribute this calm dealing to the <hi>Juſtice</hi> of their
+Cauſe, the <hi>ſtrength</hi> of their Party or Patience, or that tract of
+time hath diſcovered our Laws im<g ref="char:EOLhyphen"/>porting over-much <hi>ſharpneſs,</hi> in
+good Policy, to be thought fitter for abrogation by <hi>non<g ref="char:EOLhyphen"/>uſance,</hi> than
+repealed by a publick decree.</item>
+               <item>11. Moreover, it is fore-thought by ſome, that if theſe
+<hi>Seminaries</hi> be onely reſtrained, that they may prove hereafter like a
+Snake kept in the boſome, ſuch as <hi>Bonner, Gardiner,</hi> and others of
+the ſame Livery, ſhewed themſelves to be after Liberty obtained in Queen
+<hi>Mary</hi>'s days; and if the loſs of their <hi>Ghoſtly Fathers</hi>
+agrieve them, it is probable that they will take <hi>Arms</hi> ſooner, and
+with more courage, to free the <hi>Living,</hi> than to ſet up a Trophy to
+the <hi>Dead.</hi>
+               </item>
+               <item>12. Howſoever the <hi>Jeſuits</hi> Band is known in their
+Native Soyl to be defective in many reſpects, which makes them Underlings to
+the <hi>Proteſtants;</hi> as in <hi>Authority, Arms,</hi> and the
+<hi>protection</hi> of the Laws, which is all in all: Nevertheleſs they
+inſinuate themſelves to <hi>Forraign Princes</hi> favouring their Party,
+with promiſes of ſtrange aſſiſtance at home, if they may be well
+backed from abroad: To which purpoſe they were wont to divide the Inhabitants
+of this Realm into <hi>four</hi> Sects; whereof ranking their Troops in the
+firſt place (as due to the pretended <hi>Catholicks</hi>) they aſſumed a
+full fourth part to their <hi>property:</hi> and of that part again they made a
+Subdiviſion into two portions; namely, of thoſe that openly renounced the
+eſtabliſhed Church of <hi>England,</hi> and others whoſe certain number
+could not be aſſigned, becauſe they frequented our <hi>Service,</hi> our
+<hi>Sacraments,</hi> re<g ref="char:EOLhyphen"/>ſerving their <hi>hearts</hi> to their Lord God the
+Pope. The ſecond Party they alot to the <hi>Proteſtants;</hi> who retain
+yet, as they ſay, ſome Reliques of their Church. The third Rank, and
+largeſt, was left unto the <hi>Puritans;</hi> whom they hate deadly, in
+reſpect that they will hold no indifferent quarter with Papiſtry. The
+fourth and laſt Maniple, they aſſigne to the <hi>Politicians:
+Huomini</hi> (ſay they) <hi>Senza Dio, &amp; Senz Anima: Men with<g ref="char:EOLhyphen"/>out fear of
+God, or regard of their Souls;</hi> who buſying themſelves onely with
+matters of State, retain no ſenſe of Religion. Without doubt, if the
+Authors of this Partition have caſt their Account aright, we muſt confeſs
+the latter Brood is to be aſcribed pro<g ref="char:EOLhyphen"/>perly unto them: For if the
+undermining of the Parliament-houſe, the ſcandalizing of the King in Print,
+who is Gods Anointed, and the refuſal of natural Obedience, be works of
+thoſe that neither ſtand in awe of God or Conſcience; well may the
+Pa<g ref="char:EOLhyphen"/>piſts boaſt, that they are aſſured of the firſt number; and may
+preſume likewiſe of the laſts friendſhip, when occaſion ſhall be
+offered. For the preventing of which Combi<g ref="char:EOLhyphen"/>nation, it is a ſure way to cut
+off the <hi>Heads</hi> that ſhould tye the Knot, or at leaſt to brand them
+with a <hi>mark</hi> in the Forehead, before they be diſmiſſed; or after
+the opi<g ref="char:EOLhyphen"/>nion of others, and cuſtome of <hi>Sweden,</hi> to make them
+<hi>unwelcome to the feminine Sex,</hi> which now with great fervency embraceth
+them.</item>
+            </list>
+            <p>Theſe are for the moſt part Arguments vented in ordinary
+diſcourſe, by many who ſuppoſe a <hi>Prieſt</hi>'s breath to be
+contagious in our <hi>Engliſh</hi> Air. Others there are, who maintain the
+ſecond part of the Queſtion, with Reaſons not unworthy of
+obſer<g ref="char:EOLhyphen"/>vance.</p>
+            <p>
+               <hi>Death is the end of Temporal Woes;</hi> but <hi>it may in no
+wiſe be accounted the Grave of memory:</hi> Therefore howſoever it is in
+the power of Juſtice to ſuppreſs the <hi>perſon</hi> of a man, the
+Opinion for which he ſuffered (conceived truly or untruly in the hearts of a
+Multitude) is not ſubject to the edge of any Sword, how ſharp or keen
+ſoever. I con<g ref="char:EOLhyphen"/>feſs that the Teeth are ſoon blunted, that bite onely out
+of the <hi>malice</hi> of a ſingular Fa<g ref="char:EOLhyphen"/>ction; but where Poyſon is
+diffuſed through the veins of a Common-wealth with intermixture of Bloud,
+good and bad, Separation is to be made rather by Evacuation than by preſent
+Inciſion. The greateſt biter of a State, is <hi>Envie,</hi> joyned with
+thirſt of <hi>Revenge;</hi> which ſeldom declares it ſelf in plain
+Colours, until a Jealouſie conceived of perſonal dangers, breaketh out into
+deſperate Reſolutions. Here comes it to paſs, that when one
+male-contented Member is grieved, the reſt of the body is ſenſible
+thereof: neither can a <hi>Prieſt</hi> or <hi>Jeſuit</hi> be cut-off
+without a general murmur of their Secretaries; <pb n="4" facs="tcp:57340:3"/>which being
+confident in their number, ſecretly arm for oppoſition; or confirmed with
+their Martyrs bloud (as they are perſwaded) reſolve by patience and
+ſufferance to <hi>glorifie</hi> their Cauſe, and to merit <hi>Heaven.</hi>
+Do we not daily ſee, that it is eaſier to con<g ref="char:EOLhyphen"/>front a private Enemy, than a
+Society or Corporation? and that the hatred of a State, is more immortal than
+the ſpleen of a Monarchy? Therefore except it be demonſtrated, that the
+whole <hi>Roman</hi> City, which conſiſts not of one brood, but of a
+<hi>ſucceſſion</hi> of per<g ref="char:EOLhyphen"/>ſons, may be cut off at the firſt ſtroak
+as one entire Head, I ſee no cauſe to think our State ſecured by
+ſitting on the skirts of ſome few <hi>Seminaries,</hi> leaving in the mean
+time a multitude of <hi>Snarlers</hi> abroad, who already ſhew their
+<hi>Teeth,</hi> and onely wait oppor<g ref="char:EOLhyphen"/>tunity to bite fiercely. I will not deny,
+that whom we fear, we commonly hate; pro<g ref="char:EOLhyphen"/>vided always that no merit hath
+interceded a Reconciliation: for there is great diffe<g ref="char:EOLhyphen"/>rence between hatred
+conceived againſt him that will take away the <hi>life,</hi> and him that may
+juſtly do it, and yet in Clemency <hi>forbears</hi> to put it in effect; for
+the latter bree<g ref="char:EOLhyphen"/>deth <hi>reverent awe,</hi> whereas the former ſubjecteth to
+<hi>ſervile fear,</hi> always accompanied with deſire of Innovations. And
+although it hath been affirmed of the Church of <hi>Rome, Quod Pontificium
+genus ſemper crudele;</hi> nevertheleſs, out of Charity, let us hope that
+all Devils are not ſo black as they are painted: Some, or perhaps many of
+them there are, whom Conſcience, or in default thereof, pure ſhame of the
+world will con<g ref="char:EOLhyphen"/>ſtrain to confeſs, That his Majeſty moſt graciouſly
+diſtinguiſheth the <hi>Theory</hi> of Popery, from the Active part thereof,
+as being naturally inclined, <hi>Parvis peceatis veniam, magnis ſeveritatem
+commodare; nec poenâ ſemper, ſed ſaepius poenitentiâ
+contentus eſſe.</hi>
+            </p>
+            <p n="2">2. Miſtaking of puniſhments legally inflicted, commonly
+proceeds from <hi>fond pity,</hi> or the <hi>intereſt which we have in the
+ſame Cauſe;</hi> both which beget blinde partiality. Admit then that the
+Papal ſide, affecting merit, by compaſſion may be neerly touched with the
+reſtraint of their <hi>Seminaries;</hi> that cannot be denied, I hope, except
+they had the hearts of <hi>Tygers,</hi> that in humanity they will prefer their
+eaſe of <hi>durance</hi> before the rigor of <hi>death:</hi> And albeit that
+<hi>Parſons, Bellarmine,</hi> and the <hi>Pope</hi> himſelf, conſtrain
+their ſpiri<g ref="char:EOLhyphen"/>tual Children to thruſt their fingers into the fire, by
+refuſing the <hi>Oath of Allegiance;</hi> yet we have many Teſtimonies in
+Judicial Courts and printed Books, that the greater part of them are of that
+<hi>Theban</hi> Hunters minde, who would rather have <hi>ſeen</hi> his Dogs
+cruel acts, than have <hi>felt</hi> them to his own coſt.</p>
+            <p>
+               <hi>Garnet</hi> himſelf alſo, in one of his ſecret Letters,
+lamented, that after his death he ſhould not be enroled amongſt the
+<hi>Martyrs,</hi> becauſe that no matter of <hi>Religion</hi> was objected
+againſt him; yet it plainly appears in his demeanour, that he would gladly
+have <hi>ſurvived</hi> the poſſibility of that glory, if any ſuch hope
+had remained: neither is it to be preſumed, that being in Priſon, he would
+ever have conceived that we durſt not touch his <hi>Reverence,</hi> or that
+the Law was remiſs, which had juſtly condemned him, and loft his life to
+the Kings mercy. It was the diſtance of the place, and not perſons, that
+interpreted the ſending over Seas of the <hi>Prieſts,</hi> to be a greater
+Argument of their innocency, than of his Majeſties forbearance: for had
+Father <hi>Parſons</hi> himſelf been <hi>Co<g ref="char:EOLhyphen"/>ram nobis,</hi> his ſong
+would rather have been of <hi>Mercy</hi> than Juſtice. It is truely ſaid,
+that we are all inſtructed <hi>better by Examples than Precepts:</hi>
+Therefore if the Laws printed, and Indictments recorded, cannot controul the
+Calumnies of thoſe that wilfully will miſtake <hi>Treaſon</hi> for
+Religion, by the execution of two or three of that backbiting number, I doubt
+not but the Queſtion may readily be decided: <hi>Namque immedicabile vulnus
+enſe recidendum eſt, ne pars ſincera trabatur.</hi>
+            </p>
+            <p>To dally with <hi>pragmatical Papiſts,</hi> eſpecially with
+thoſe that by their Example and Counſel pervert his Majeſties Subjects, I
+hold it a point of meer <hi>Injuſtice:</hi> for what comfort may the good
+expect, when the bad are by connivance freed to ſpeak, and em<g ref="char:EOLhyphen"/>boldened to put
+their diſloyal thoughts in execution? For explaining therefore of my meaning,
+it is neceſſary to have a regard unto the nature of the Kings Liege-people
+that are to be reformed by example of Juſtice, and other
+<hi>Forraigners,</hi> who, will we, nill we, muſt be <hi>Cenſurers</hi> of
+our Actions.</p>
+            <p>It hath been truely obſerved, that the Nations of
+<hi>Europe</hi> which are moſt remote from <hi>Rome,</hi> are more
+ſuperſtitiouſly enclined to the dregs of that place, than the near
+Neighbours of <hi>Italy.</hi> Whether that humour proceed from the complexion
+of the <hi>Nor<g ref="char:EOLhyphen"/>thern</hi> bodies, which is naturally more retentive of <hi>old
+Cuſtoms</hi> than hotter Regions, or that the vices of the City ſeated on
+ſeven Hills, are by crafty Miniſters of that See con<g ref="char:EOLhyphen"/>cealed from the vulgar
+ſort, I liſt not now to diſcuſs; but moſt certain it is, that the
+peo<g ref="char:EOLhyphen"/>ple of this Iſle exceed the <hi>Romans</hi> in zeal of their
+Profeſſion: inſomuch, that in <hi>Rome</hi> it <pb n="5" facs="tcp:57340:3"/>ſelf I
+have heard the <hi>Engliſh Fugitives</hi> taxed by the name of
+<hi>Pichiapetti Ingleſi.</hi> Now as our Country-men take ſurer holdfaſt
+of <hi>Papal Traditions</hi> than others, ſo are they naturally better
+fortified with a <hi>Courage</hi> to endure Death for the maintainance of that
+Cauſe: for this Climate is of that temperature, out of which
+<hi>Vegetius</hi> holdeth it fitteſt to chuſe a <hi>valiant Souldier,</hi>
+where the heart finding it ſelf provided of plenty of <hi>Bloud</hi> to
+ſuſtain ſudden defects, is not ſo ſoon apprehenſive of death or
+dangers, as where the Store-houſe of Bloud being ſmall, every hazard maketh
+pale <hi>cheeks</hi> and trembling <hi>hands. (Angli)</hi> ſay antient
+Writers, <hi>bello intrepidi, nec mortis ſenſu deterrentur:</hi> And
+thereunto <hi>Botero</hi> the <hi>Italian</hi> beareth witneſs in his
+Relations of many Strangers; Therefore co<g ref="char:EOLhyphen"/>ming out of Forraign parts among the
+Rarities of <hi>England,</hi> deſired to ſee whether Report hath not been
+too laviſh in affirming, that our condemned perſons yield their bodies to
+Death with cheerfulneſs. And were it not that by dayly experience we can call
+our ſelves to witneſs of this truth, I could produce the Reverend Judge
+<hi>Forteſcue,</hi> who in commendation of our <hi>Engliſh Laws,</hi> made
+ſuitable, as he well obſerveth, to the inbred conditions of the Inhabitants
+of this Soyl, avoweth, that the <hi>Engliſh</hi> people, in tryal for
+Criminal Cauſes, are not compelled by <hi>Tortures</hi> to confeſs, as in
+other Nations it is uſed, for as much as the quality of the
+<hi>Engliſh</hi> is known to be leſs fearful of Death than of Torments: For
+which cauſe, if the Torments of the Civil Law were offered to an innocent
+perſon in <hi>England,</hi> he would rather yield himſelf guilty and
+ſuffer <hi>death,</hi> than endure the horrour of lingring Pains.
+<hi>Inſulani plerumque fures</hi> (ſaith one) and ſo true it is, that
+this Country is ſtained with that imputation, notwithſtanding that many are
+put to death, to the end that others, by their fall, might learn in time to
+be<g ref="char:EOLhyphen"/>ware. If then it doth appear that <hi>Terrour</hi> prevails not to keep men
+from Offences which are condemned by Law and Conſcience, what aſſurance
+can there be to ſcare thoſe who pretend to be ſatisfied in their minds,
+that their Sufferings are either ex<g ref="char:EOLhyphen"/>preſly or by implication, for matter of
+Religion and health of their Souls? In ſuch a caſe to threaten death to
+<hi>Engliſh</hi> men, <hi>Quibus nihil intereſt humive ſublimive
+putreſcant,</hi> is a matter of ſmall conſequence. <hi>Purpuratis Gallis,
+Italis aut Hiſpanis iſta minitari; To a ſetled reſolution of death,
+menaces to prolong a weariſome life, prevail much more in ſuch
+caſes.</hi> Rightly did <hi>Clement</hi> the Eighth conſider, that by
+burning two <hi>Engliſh</hi> men in <hi>Rome</hi> for ſuppoſed Hereſie,
+he rather impaired his Cauſe than bettered it; inſomuch that many preſent
+at the reſolute death of Mr. <hi>Marſh,</hi> who was brought to duſt in
+<hi>Campo di Santa Fiore,</hi> ſpared not to proclaim him for a
+<hi>Martyr,</hi> carried away of his Aſhes for a Relique, and wiſhed their
+Souls in the ſame place with his: which News brought to the <hi>Popes</hi>
+ear, cauſed him (as it was bruted about in <hi>Rome</hi>) ſolemnly to
+proteſt, <hi>That none of the Engliſh Nation ſhould publickly, from that
+time forward, be conſumed with Fire.</hi> On the other ſide, if we read the
+Volumes written of their Prieſts Conſtancy, their <hi>Martyrologie</hi> or
+<hi>Kalendar</hi> of <hi>Martyrs,</hi> and <hi>Path-way of Salvation,</hi> as
+it were chalked out unto the Papiſts, by ſacrificing their lives for the
+Pope, we ſhall finde that by taking away of one, we have confirmed and
+invited many; whereof I could give particular inſtances, if I thought any
+ſcruple were made in that point.</p>
+            <p>As for forraign parts which hold with the <hi>Papal
+Supremacy,</hi> it is cleer, that they will be ſevere and partial Judges in
+this cauſe: For albeit that here in <hi>England</hi> it is well known to all
+true and loyal Subjects, that for matter of <hi>Roman</hi> Doctrine, no mans
+life is directly called into queſtion, but that their diſobedience in
+reaſon of State, is the onely motive of their proſecution; nevertheleſs
+where a great Canton of <hi>Chriſtendom</hi> is rooted in a contrary opinion,
+and things in this world are for the moſt part eſteemed by outward
+appearance, this Land cannot eſcape malicious ſcandals, neither ſhall
+there be want of Colledges to ſupply their Faction with <hi>Seminaries.</hi>
+Therefore again and again I ſay, That if the ſtate of the Queſtion were
+ſo ſet, that it were poſſible by a ge<g ref="char:EOLhyphen"/>neral execution of the
+<hi>Prieſts</hi> and their <hi>Adherents,</hi> to end the Controverſie, I
+could in ſome ſort with better will ſubſcribe thereunto; but ſeeing I
+finde little hope in that courſe, I hold it ſafer to be ambitious of the
+Victory, which is purchaſed with leſs loſs of Bloud, and to proceed as
+<hi>Tully</hi> teacheth his Orator: <hi>Who when he cannot wholly over<g ref="char:EOLhyphen"/>throw
+his Adverſary, yet ought he to do it in ſome part, and with all endeavour
+to confirm his own party in the beſt manner that may be.</hi>
+            </p>
+            <p n="4">4. <hi>He that forbeareth to ſow his ground in expectance
+of good Winde, or a favourable Moon, commonly hath a poor Crop, and a lean
+Purſe.</hi> So ſhall it fare with this State, if private Whiſperings of
+diſcontented perſons, that never learnt to ſpeak well, be too nicely
+regarded; yet ought they not to be ſlightly ſet at nought, leſt our
+Credit grow <pb n="6" facs="tcp:57340:4"/>light even in the Ballance of our deareſt
+Friends. The Papiſtical Libels inform againſt us, as if we were deſirous
+to grow fat with ſucking of their Bloud; the very Walls of their
+<hi>Seminary</hi> Colledge at <hi>Rome,</hi> are bedawbed with their lying
+Phanſies, and in every corner the Corner-creepers leave ſome badge of their
+malicious Spleen againſt us, cry<g ref="char:EOLhyphen"/>ing out of Cruelty and Perſecution: But if
+the penalty of Death be changed into a ſimple indurance of Priſon, what
+Moat can they finde in our Eyes to pull out? or with what Rhetorick can they
+defend their obſtinate Malipertneſs, which with repaying us ill for good,
+deſerve to have Coals of Indignation poured upon their heads? <hi>Viſne
+muliebre confilium,</hi> ſaid <hi>Livia</hi> to <hi>Auguſtus,</hi> let
+Severity ſleep a while, and try what al<g ref="char:EOLhyphen"/>teration the pardoning of
+<hi>Cinna</hi> may procure. The Emperour hearkened to her Counſel, and
+thereby found his Enemies mouths ſtopt, and the malice abated. Some there
+are, perchance, that will term this Clemency Innovation, and vouch the
+Pre<g ref="char:EOLhyphen"/>cedent of that City, who permitted none to propound new Laws, that had not
+a Cord about their necks ready for Vengeance, if it were found unprofitable.
+But let ſuch Stoicks know, that there is great difference between the penning
+of a new Law, and advice given for the manner of executing it; neither, by
+their leaves, are all Innova<g ref="char:EOLhyphen"/>tions to be rejected: for divine <hi>Plato</hi>
+teacheth us, <hi>That in all Common-wealths, upon juſt grounds, there ought
+to be ſome changes;</hi> and that <hi>States-men</hi> therein muſt behave
+them<g ref="char:EOLhyphen"/>ſelves like skilful Muſicians, <hi>Qui artem Muſices non mutant,
+ſed Muſices modum.</hi>
+            </p>
+            <p n="5">5. <hi>That an evil Weed groweth faſt,</hi> by example of
+the new Catholicks increaſe, is cleerly convinced; <hi>But he that will
+aſcribe this Generation ſimply to his Majeſties Heroical vertue of
+Clemency, argueth out of the fallacy which is called</hi> Ignoratio Elenchi.
+Was not the Zeal of many cooled towards the laſt end of Queen
+<hi>Elizabeth</hi>'s Raign? hath not the impertinent heat of ſome of our own
+ſide bereft us of part of our ſtrength? and the Papacy with tract of Time
+gotten a hard skin on their Conſciences? <hi>Parva metu primo, mox ſeſe
+attollit in altum. But if we will with a better inſight behold how this great
+quantity of Spawn is multiplied, we muſt eſpecially aſcribe the cauſe
+thereof to their Prieſts, who by their Deaths prepare and aſſure more to
+their Sect, than by their Lives they could ever perſwade.</hi> It were
+Incivility to diſtruſt a Friend, or one that hath the ſhew of an honeſt
+man, if he will frankly give his Word, or confirm it with a ſacred Oath: But
+when a Proteſtation is made upon the laſt gaſp of Life, it is of great
+effect, and poſſeſſeth thoſe that cannot gain-ſay it upon their own
+knowledge. <hi>The number of theſe Prieſts which now adays come to make a
+Tragical Concluſion, is not great:</hi> Yet as with one Seal many Patents are
+ſealed, ſo with the loſs of a few Lives, num<g ref="char:EOLhyphen"/>bers of wavering Spirits may
+be gained; <hi>Sanguis Martyrum ſemen Eccleſiae:</hi> And though theſe
+<hi>Prieſts</hi> having indeed a diſadvantageous Cauſe, are in very deed
+but counterfeit Shadows of <hi>Martyrs</hi> unto a true underſtanding; yet
+will they be reputed for ſuch, by thoſe that lay their Souls to pawn unto
+their Doctrine, with whom if we liſt to contend by multitude of Voices, we
+ſhall be cryed down, without all peradventure: For <hi>the gate of their
+Church is wide, and many there are that enter thereinto.</hi>
+            </p>
+            <p n="6">6. <hi>By divers Means it is poſſible to come to one and
+the ſelf-ſame End;</hi> ſeeing that then the ſum of our well-wiſhings
+is all one, namely, <hi>That Popiſh Prieſts may have no power to do
+harm;</hi> it is not impertinent to try ſundry paths, which may lead us to
+the perfecting of our Deſires. Politicians diſtinguiſh <hi>Inter rempub.
+conſtitutam &amp; rempub. conſtituend.</hi> according to the ſeveral
+natures whereof, Statiſts are to diſpoſe of their Counſels and
+Ordinances. Were now the <hi>Rhemiſts</hi> and <hi>Romuliſts</hi>
+new-hatched out of the ſhell, the former courſe of Severity might ſoon
+bury their Opinions with their Perſons: But ſince the Diſeaſe is
+inveterated, variety of Medicine is judiciouſly to to be applied. The
+<hi>Romans</hi> did not puniſh all Crimes of one and the ſelf-ſame nature
+with extremity of Death; For ſome they condemned to perpetual Priſon, and
+others they baniſhed into an Iſland, or ſome remote Countrey: Even in the
+caſe of Reli<g ref="char:EOLhyphen"/>gion, they were very tender to dip their fingers in Blood; For
+when <hi>Cato</hi> was Conſul, and it ſtemed good unto the <hi>Senate</hi>
+to ſuppreſs with violence the diſordered <hi>Ceremony</hi> of the
+<hi>Baechanals,</hi> brought by a ſtrange <hi>Prieſt</hi> into the City, he
+withſtood that Sen<g ref="char:EOLhyphen"/>tence, alledging, that there was nothing ſo apt to
+deceive men as <hi>Religion,</hi> which al<g ref="char:EOLhyphen"/>ways preſents a ſhew of
+Divinity; and for that cauſe it behoved to be very wary in chaſtizing the
+Profeſſors thereof, leſt any indignation ſhould enter into the Peoples
+mindes, that ſomewhat was derogated from the Majeſty of God. Others more
+freely have not ſpared to place Religion (I mean that Religion which is
+ignorantly zealous, amongſt the kinds of Frenſie, which is not to be cured
+otherwiſe, than by time given to divert or qualifie the fury of the Conceit: 
+<pb n="7" facs="tcp:57340:4"/> 
+               <q>
+                  <hi>Tantum Religio potuit ſuadere malorum!</hi>
+               </q>
+            </p>
+            <p>Howſoever in valuing the power of a City, or ſtrength of
+Arguments, quality and worth is to be preferred before number:
+<hi>Nevertheleſs,</hi> where the uttermoſt of our force is not known, it
+imports much to have it conceived, that the Multitude ſtands for us; for
+Doubts and Suſpicions caſt in an Enemies way, evermore make things ſeem
+greater and more difficult, than they are indeed: We have, by God's Mercy, the
+Sword of Juſtice drawn on our behalf, which upon ſhort warning is able to
+diſ<g ref="char:EOLhyphen"/>unite the ſecret Underminers of our Quiet; we have a King zealous for
+the Houſe of the Lord, who needeth not to fear leſs Succeſs in ſhutting
+up of <hi>Prieſts,</hi> than Queen <hi>Elizabeth</hi> had in reſtraining
+them in <hi>Wisbich</hi>-Caſtle; where leſt their factious Spirits ſhould
+grow ruſty, they converted their Canker to fret upon themſelves, and
+vomi<g ref="char:EOLhyphen"/>ting out Gall in <hi>Quodlibets,</hi> ſhewed that their Diſeaſe was
+chiefly predominant in the Spleen. What Tempeſts they have raiſed in their
+Colledge at <hi>Rome,</hi> their own Books and many <hi>Travellers</hi> can
+witneſs; the ſtorm whereof was ſuch, that <hi>Sextus Quintus</hi>
+complained ſeriouſly of the vexation which he received oftner from the
+<hi>Engliſh</hi> Scho<g ref="char:EOLhyphen"/>lars, than <hi>all the Vaſſals of his Triple
+Crown.</hi> And untruely is the Magiſtrate noted of <hi>Negligence,</hi> or
+overmuch <hi>Severity,</hi> that lays wait to catch the Foxes, and the little
+Foxes which ſpoil the <hi>Vineyard;</hi> though afterwards, without further
+puniſhment, he reſerve them to the day wherein God will take account of
+their <hi>Stewardſhip.</hi> For if <hi>Ariſtotle</hi>'s City, defined to be
+a Society of men aſſembled to live well, be the ſame which in our Law
+hath reference to the maintenance of the poor in Peace: So long as we taſte
+of the ſweet of a peaceable Government, we cannot ſay, but that we live
+well; and that the City conſiſting of Men, and not of Walls, is happily
+guided.</p>
+            <p n="8">8. An Oath is a weak Band to contain him, that will, for
+pretended Conſcience ſake, hold no Faith with Hereticks; or by Abſolution
+from a Prieſt, thinks himſelf at liberty to flie from any Promiſe or
+Proteſtation whatſoever.</p>
+            <p>Therefore when I remember that <hi>Watſon</hi> the Prieſt,
+notwithſtanding his Invectives againſt the <hi>Jeſuits,</hi> gained
+liberty to forge his Traiterous Inventions, and had others of his Society in
+the Complot; I judge it ſafer to make Recluſes of them, than to ſuffer
+ſuch to dally with us by Books, and ſome idle Intelligences, caſt abroad
+only as a Miſt to blear our eyes: But how ſhall we finde means to apprehend
+thoſe diſguiſed <hi>Romaniſts,</hi> that borrow the ſhapes of
+<hi>Captains, Merchants, Gentlemen, Citizens,</hi> and all ſorts of people;
+and by Equivocation may deny themſelves to be themſelves? In An<g ref="char:EOLhyphen"/>ſwer to
+this Queſtion, I will firſt ſhew the Reaſon why they are not purſued
+and taken, and hereafter make an Overture how they may be boulted out of their
+Hutches. The Nature of Man, howſoever in hot blood it be thirſty of
+Revenge, in a cooler temper it hath a kind of <hi>Nauſea,</hi> as I may call
+it, or a diſtaſte of taking away of the Lives, even of the Nocent:
+Inſomuch that in all <hi>Aſſizes</hi> and <hi>Seſſions,</hi> an
+Offender can hardly be Condemned, whom the fooliſh pity of many will not
+after a ſort ex<g ref="char:EOLhyphen"/>cuſe, with laying ſome Imputations on the <hi>Judge,</hi>
+part on the Jury, and much on the Accuſer; and ſuch is their blind
+Affection, that the <hi>Priſoner,</hi> who perhaps was never recommended for
+Handſomneſs, will be eſteemed of them for one of the pro<g ref="char:EOLhyphen"/>pereſt men in
+the company: From hence it comes, that the name of <hi>a Serjeant</hi> or <hi>a
+Purſevant</hi> is odious; and the Executioner, although he be the hand of
+Juſtice, is eſteemed no better than an Enemy of Mankinde, and one that
+loſt Honeſty and Hu<g ref="char:EOLhyphen"/>manity in his Cradle. Reverend Mr. <hi>Foxe</hi> was
+wont to ſay, That Spies and Accu<g ref="char:EOLhyphen"/>ſers were neceſſary <hi>Members</hi>
+in a <hi>Common-wealth,</hi> and deſerved to be cheriſhed; but for his own
+part, he would not be of any of that number, or wiſh his Friends to affect
+ſuch Imployments: And albeit that the Law permits and commands every man to
+apprehend a Felon, do we not commonly ſee very many content to ſtand by and
+look on, while others perform that Office?</p>
+            <p>Likewiſe it is evident, That if ſuch as are tender of their
+Reputations, be very ſcrupulous perſonally to <hi>Arreſt men</hi> for
+civil Actions of Debt, they will be more un<g ref="char:EOLhyphen"/>willing Inſtruments of drawing
+their Bodies to <hi>the Rack</hi> or <hi>the Gallows;</hi> eſpecially when
+there is any colour of <hi>Religion</hi> to be pretended in their defence. The
+diverſity of Mens Faces is great, but the difference of their Mindes in this
+caſe is more variable, wherein the meaneſt have thought as free as the
+higheſt. Beſides this, there are too many of the blinde <hi>Commonalty</hi>
+altogether <hi>Popiſh,</hi> though not reconciled <hi>Papiſts,</hi> who 
+<pb n="8" facs="tcp:57340:5"/>in their fooliſh Ignorance will ſay, It is pity any
+ſhould die for their Conſcience, though indeed they make honourable amends
+for their Treaſon: Verily I know not what miſgiving of their minde it is,
+that makes men forecaſt the poſſibility of Alte<g ref="char:EOLhyphen"/>ration in matters of
+<hi>Religion,</hi> and for that reſpect they are exceeding backward in
+diſcovery and laying hands on <hi>Seminaries;</hi> yea, and are timerous in
+enacting ſharp Laws againſt them, as thoſe that ſilently ſay among
+themſelves, <hi>Sors hodierna mihi, cras erit illa tibi.</hi> Nay, ſhall I
+ſpeak a Bugs word? There is no ſmall number that ſtand doubtful, whether
+it be a grateful work to croſs <hi>Popery,</hi> or that it may be done
+ſafely without a foul aſperſion of <hi>Puritaniſme,</hi> or a ſhrewd
+turn for their labours, at ſome time or other: By which unhappy ambiguity it
+comes to paſs, that theſe <hi>Animalia amphibia, the Prieſts, I mean,
+that prey on the Souls and Bodies of either Sex,</hi> unattached revel where
+they liſt, though they be no more ſeen, than a man dancing in a net. How
+much fitter were it for us courageouſly to invite them to our Party, by
+<hi>Preaching,</hi> or <hi>Confuting them by writing;</hi> and unto the ſtate
+wherein we ſtand, wiſely to apply the Exhortation of the
+<hi>Aſſyrian</hi> King to his Souldiers, <hi>You are fools,</hi> (quoth he)
+<hi>if there be any hope in your hearts to redreſs</hi> Sorrow <hi>by flight,
+rather endeavour to make them flie that are the cauſers of your grief;
+aſſuring your ſelves, that more periſh in flight than in the
+battle.</hi> Even as many ſeeking to meet the <hi>Papiſts</hi> half way,
+diſcomfort our own Party.</p>
+            <p n="9">9. It follows now, according to the Method preſcribed
+before, that an Overture be made, how to get the <hi>Jeſuits,</hi> and their
+ſhadows the <hi>Prieſts,</hi> into poſſeſſion: It hath been
+heretofore recited, that the unwelcome name of a Blood-ſucker, a Buſie-body
+or a Puritan, hath been ſhrewd <hi>Scarecrows</hi> unto many honeſt mindes;
+by abrogating therefore of thoſe or ſuchlike imputations, many will be
+ſtirred up to undertake the apprehending of the <hi>Adverſaries</hi> unto
+the Truth; eſpecially, when for their pains and time employed, they ſhall
+deſerve and have the Titles of good <hi>Patriots, dutiful Sub<g ref="char:EOLhyphen"/>jects,</hi> and
+<hi>zealous Chriſtians:</hi> How ready is every common perſon to carry
+<hi>a Malefactor to the Stocks,</hi> rather than to the Goal or Execution? and
+doubtleſs, they will be no leſs forward to attach a Prieſt, when they are
+aſſured that the worſt of his Puniſhment ſhall be a ſimple
+Reſtraint within the Walls of ſome old Caſtle. A certain kinde of People
+there is, with whom Money plays a more forcible Orator's part, than any
+perſwaſion of the dutiful Service, which they owe to their Common-wealth:
+Theſe men will not be negligent to give Intelligence, and alſo to procure
+it faithfully, pro<g ref="char:EOLhyphen"/>vided that reward may help to line their thredbare Purſes,
+and exempt them from need to ſell Liberty unto <hi>Seminaries.</hi> And where
+aſſurance of gain is propounded for Diſcovery, What Maſter or
+Houſekeeper will truſt his Servant with keeping of his Prieſt, or ſleep
+quietly, while he is engaged to the danger of a Mercenary? I re<g ref="char:EOLhyphen"/>member, that in
+<hi>Italy</hi> it was often told me, that the bountiful hand of Sir <hi>Francis
+Walſingam,</hi> made his <hi>Intelligencers</hi> ſo active, that <hi>a
+Seminary</hi> could ſcarcely ſtir out of the Gates of <hi>Rome,</hi>
+without his privity: which ſucceſs, by mediation of Gold, may as readily be
+obtained from <hi>Sivil, Valedolid, Doway, Lovain, Paris,</hi> and other
+places; and by forewarning given of their approach, they may be waited for at
+the Ports, and from thence ſoon conveyed to a ſafe Lodging. But whence
+ſhall the ſtream flow that muſt feed this Bounty? It is a doubt eaſily
+ſatisfied. If ſome Thouſands of Pounds out of the <hi>Recuſants
+Penalties</hi> be reſerved in ſtock, and committed by his
+<hi>Majeſty</hi> into the diſpoſition of zealous diſtributers, who will
+not be afraid to conclude, <hi>Perdat fiſcus ut capiat Chriſtus. Neither
+need we ſeek any further ſuccour to repair de<g ref="char:EOLhyphen"/>cayed Caſtles, and therein
+to defray the charge of the Prieſts,</hi> with a ſure Guard to keep them,
+than the aforeſaid Forfeitures, that by the Juſtice of the Law may be
+col<g ref="char:EOLhyphen"/>lected. Which courſe, if ever it come happily to be entertained, and that
+<hi>Recu<g ref="char:EOLhyphen"/>ſancy</hi> cauſe to be an ignominious prey to the Subjects, the
+proceedings for Religion ſhall be leſs blamed, and perhaps altogether
+unjuſtly accuſed by any graceleſs <hi>Gret<g ref="char:EOLhyphen"/>zerus,</hi> or Cacodaemon
+<hi>Johannes,</hi> tincting their Pens in Gall and Vinegar. For beſides
+occaſion of Calumniation given by Suits of that nature, it is evident, that
+many Recuſants that would be Indicted for the King, and the effecting of the
+Pro<g ref="char:EOLhyphen"/>ject aforeſaid, ſhall eſcape without puniſhment, and be born out
+againſt the Power of a private perſon, begging them to no other purpoſe,
+than hath heretofore been uſed: and albeit the Penalty be rated at 20
+<hi>l.</hi> a Moneth, yet was it never the Law<g ref="char:EOLhyphen"/>makers intent, that ſuch as
+were not able to pay ſo great a Summ, ſhould go Scot<g ref="char:EOLhyphen"/>free; but that
+according to the proportion of their Ability, they ſhould do the pe<g ref="char:EOLhyphen"/>nance 
+<pb n="9" facs="tcp:57340:5"/>of their Purſes for their Diſobedience; whereas now (if
+the Voice of the People, which is ſaid to be the Voice of God, is to be
+credited) the poorer ſort is skipt over, as if they ought no Souls to God,
+nor Duty to their Soveraign: a poor man, ſaith one, is to be pitied, if he
+offend through neceſſity; but if he do amiſs voluntarily, he is more
+ſeverely to be chaſtiſed; foraſmuch, as wanting Friends and Means to
+bear him out, it ſheweth that his Fault proceedeth from Preſumption.</p>
+            <p n="10">10. Let us now preſuppoſe, that all the whole Regiment
+of <hi>Jeſuits</hi> and <hi>Seminaries</hi> were lodged in ſafe cuſtody,
+may we then perſwade our ſelves, <hi>That Popery will vaniſh like a dumb
+Show?</hi> I am clearly reſolved, that though it receive a great
+<hi>Eclipſe,</hi> not<g ref="char:EOLhyphen"/>withſtanding, without other helps, the Kingdom of
+<hi>Antichriſt</hi> will only lye hidden as <hi>a weed, that ſeems withered
+in Winter,</hi> and is ready to ſprout out with the Spring. Temporal Arms are
+Remedies ſerving for a time: but the Spiritual Sword is per<g ref="char:EOLhyphen"/>manent in
+Operation, and by an inviſible Blow works more than Mortal Man can imagine.
+<hi>The Word of God carries this two-edged Weapon in its mouth, which is to be
+uſed by faithful Miniſters of the Church, whom pure Zeal, without reſpect
+to worldly Pro<g ref="char:EOLhyphen"/>motion or perſons, ought to encourage.</hi> Of Judges the
+Scripture ſaith, <hi>Eſtote fortes;</hi> and daily we ſee, that ſitting
+in their Judicial Seats, God inſpireth them with greater Cou<g ref="char:EOLhyphen"/>rage, than when,
+as private perſons, they are to give their Opinions. No leſs is the Power
+of the Holy Ghoſt in his Servants that out of the Pulpit are to deliver his
+Em<g ref="char:EOLhyphen"/>baſſage. Let them therefore not be diſmaid to ſpeak out plainly, and
+tell the truth, without running a middle courſe between heat and cold.
+Unprofitable deſcanting upon the Scripture with an old Poſtel, or for want
+of better matter, waſte the poor time ſhut up in an Hour-glaſs, with
+skirmiſhing againſt the worthy Pillars of our own Profeſſion. Rumour,
+which is ever ready to take hold of evil, hath raiſed a ſecret, though (as
+I hope) a cauſeleſs ſuſpicion, that there ſhould be ſome ſecret
+combination under-hand, by changing the ſtate of Queſtions, to put us in
+our old days, to learn a new Catechiſme; and when they have brought us out of
+conceit <hi>with the Reverend Interpreters of the Word,</hi> to uſe us then,
+as the Wolves (mentioned in <hi>Demoſthenes Apo<g ref="char:EOLhyphen"/>logy</hi>) handled the
+Shepherds, when they had delivered up their Dogs. Moſt ſacred was that
+Speech of our moſt gracious King concerning <hi>Vorſtius;</hi> He that will
+ſpeak of <hi>Canaan,</hi> let him ſpeak the Language of <hi>Canaan.</hi>
+How can we draw others to our Church, if we cannot agree where or how to lay
+our Foundation? Or how may we cleanſe the leprous Diſeaſe of
+Diſſention, which the Papiſts, which are leaſt aſſured to
+themſelves, and moſt doubtful of their Salvation, are not aſhamed to
+aſcribe unto many of us? I would not have Miniſters indiſcreet, like
+Dogs, to bark againſt all, whether they know or know them not. I like better
+the opinion of <hi>Ariſtotle,</hi> who adviſeth thoſe that ſtand in
+guard of a place, to be curſt only to ſuch as are about to endamage the
+City. If Purſevants and other Civil-Officers would learn to keep this Rule,
+they might go about their buſineſs with much credit. The imagined fear of
+inviting the <hi>Romiſh</hi> Faction by force to deliver their Ghoſtly
+Fathers out of Priſon, moves me not a whit: For I cannot believe, that they
+eſteem them at ſo dear a price, that they would run the hazard, by freeing
+others out of Hold, to put themſelves into their places. Some will ſay,
+That a man of ſtraw is a head good enough for a diſcontented Mul<g ref="char:EOLhyphen"/>titude.
+That the Papiſts are very Cholerick, it appears ſufficiently by their
+Wri<g ref="char:EOLhyphen"/>tings: Yet it hath pleaſed God to ſend thoſe curſt Cows ſhort
+horns, that when they could not finde a man of ſufficiency to ſerve their
+turn, they were fain to do Ho<g ref="char:EOLhyphen"/>mage to <hi>Garnet</hi>'s Straw; forgetful as
+they are, that ſuch ſtubble cannot endure the Trial of Fire. But unto us,
+that ought to be Doers, as well as Profeſſors of the Go<g ref="char:EOLhyphen"/>ſpel, let this
+remain as a memorable <hi>Theoreme; Religion is the Mother of good Order, good
+Order is the cauſe of proſperous Fortune and happy Succeſs in all
+Counſels and Enter<g ref="char:EOLhyphen"/>priſes:</hi> Wherefore in what eſtate ſoever there
+wanteth good Order, it is an evident Argument that Religion goes backward.</p>
+            <p n="11">11. I have ever held it for a kinde of Injuſtice, to omit
+the execution of mean Laws, made to prevent the effects of Idleneſs, and then
+to apply main extremity of the Sword, when the proling habit gotten by that
+Vice comes to light. No leſs is the courſe uncharitable (with pardon for
+this preſumption be it ſpoken) when we ſpare them that have no Religion
+at all, and cenſure thoſe that can give account of ſomewhat tending to
+that purpoſe.</p>
+            <p>He that is in Miſery, muſt be born withal if he ſpeak
+miſerably; and when the Child from his Mothers Breaſt hath ſuckt nothing
+but <hi>Popery,</hi> a man had need to be angry <pb n="10" facs="tcp:57340:6"/>with
+diſcretion, if he hear him ſpeak in the voice of a <hi>Papiſt.</hi> God
+calleth ſome by Miracle; but the ordinary means is his Word: If that means in
+many places of this Land be wanting, of what Religion is it likelieſt the
+people will be? I ſuppoſe that few men will gainſay my Aſſertion,
+that outward ſenſe will direct them to Popery, which is fuller of Pageants
+than of Spiritual Doctrine. And what is the cauſe, that after ſo many years
+of preaching of the Goſpel, that the common People ſtill retain a ſcent
+of the <hi>Roman</hi> perfume? The Cauſe is, <hi>For that the formal
+Obedience of coming to Church, hath been more expected than the Inſtruction
+of private Families: publique Cate<g ref="char:EOLhyphen"/>chiſing is of great uſe, but the firſt
+elements thereof are to be learnt at home:</hi> And theſe, which we learn
+from our Parents, ſtick moſt ſurely in our mindes. What was the cauſe
+why the <hi>Spartans</hi> continued their Government ſo many Revolutions of
+times, without mutations? Hiſtories record, that Learning their
+Country-Cuſtoms from their Infancy, they would not be induced to alter them.
+And in this our Native Soil we perceive, that the Common Laws, which rely on
+antient Cuſtomes, are better obſerved than late Statutes, of what worth
+ſoever they be: So doth it fare with the poor People, <hi>who being once
+ſeaſoned with the old Dregs of Papiſme, will hardly be drawn from it,
+till the learning of the true Faith be grown to a Cuſtome.</hi> I will
+preſcribe no order or affairs to effect this, but I ſuppoſe, that the
+antient laudable courſe by the Biſhops Confirmation, will not be
+ſufficient to fulfil ſo great a task; the <hi>Miniſters</hi> muſt and
+ought to be the principal and immediate hands to give aſſiſtance to ſo
+gracious a work; and in caſe any be defective in their Duty, the <hi>Reverend
+Fathers</hi> of the Church may take notice thereof in their Viſitations.</p>
+            <p>Perhaps it will be thought a hard task to conſtrain old People
+to learn the <hi>A, B, C. of their Chriſtian Belief.</hi> But how hard
+ſoever it be, I hold it no Incivility to prepare people of all Ages for the
+Kingdome of Heaven. <hi>It was not the hanging up of the Bull of</hi> Pius
+Quintus <hi>on the Biſhop of</hi> London<hi>'s doors, or the forbearing to
+hang up</hi> Prieſts, <hi>that hath wrought this Apoſtaſie:</hi> But the
+Idleneſs and Inſufficiency of many <hi>Teachers,</hi> con<g ref="char:EOLhyphen"/>ſpiring with
+the Peoples cold Zeal, <hi>that hath been the contriver of this unhappy
+Web.</hi> Until the eleventh year of Queen <hi>Elizabeths</hi> Reign, a
+Recuſants name was ſcarcely known: The reaſon reaſon was, becauſe
+that the <hi>Zeal,</hi> begotten in the time of the <hi>Marian
+Perſecution,</hi> was yet freſh in memory: And the late Perſecutors were
+ſo a<g ref="char:EOLhyphen"/>mazed with the ſudden alteration of Religion, that they could not
+chuſe but ſay, <hi>Di<g ref="char:EOLhyphen"/>gitus Dei eſt hic.</hi> In thoſe days there was
+an emulation between the Clergy and the Laity; and a ſtrife aroſe,
+<hi>Whether of them ſhould ſhew themſelves moſt affectionate to the
+Goſpel:</hi> Miniſters haunted the Houſes of worthieſt Men, where
+<hi>Jeſuits</hi> now build their Tabernacles; and poor Country-Churches were
+frequented with the beſt in the Shire. The Word of God was precious. Prayer
+and Preaching went hand in hand toge<g ref="char:EOLhyphen"/>ther: Until Archbiſhop
+<hi>Grindal</hi>'s diſgrace, and <hi>Hatfield</hi>'s hard conceit of
+Prophecying, brought the flowing of theſe good Graces to a ſtill water: The
+name of a Papiſt ſmelt rank, even in their own Noſtrils; and for pure
+ſhame to be accounted ſuch, they <hi>reſorted duely, both to our Churches
+and Exerciſes: But when they ſaw their great Cory<g ref="char:EOLhyphen"/>phaeus</hi> Sanders
+<hi>had ſlily pinned the name of</hi> Puritans <hi>upon the ſleeves of</hi>
+Proteſtants that encountred them with moſt courage, and perceived that the
+word was pleaſing to ſome of our own ſide, they took heart agrace to
+ſet little by the Service of God, and Duty to their Soveraign: therewith
+ſtart up from among us, ſome that might have been <hi>recommended for their
+Zeal,</hi> if it had been <hi>tempered</hi> with diſcretion, <hi>who
+fore<g ref="char:EOLhyphen"/>running the Authority of the Magiſtrate,</hi> took upon them in ſundry
+places, and publickly to cenſure whatſoever agreed not with their private
+conceits; with which croſs hu<g ref="char:EOLhyphen"/>mours, vented in <hi>Pulpits</hi> and
+<hi>Pamphlets,</hi> moſt men grieve to be frozen in zeal, and in ſuch
+ſort benummed, that whoſoever (<hi>as the worthy Lord Keeper</hi> Bacon
+<hi>obſerved in thoſe days</hi>) pretended a little ſpark of
+earneſtneſs, he ſeemed no leſs than red fire hot, in compa<g ref="char:EOLhyphen"/>riſon of
+the other. And as ſome things fare the worſe, for an ill Neighbours ſake
+dwelling beſide them; ſo did it betide the <hi>Proteſtant,</hi> who
+ſeeking to curb the <hi>Papiſt,</hi> or to reprove an idle Droan, was
+incontinently branded with the ignominious note of a <hi>Preciſian.</hi> All
+which winde brought plenty of Water to the Popes Mill; and there will moſt
+men grind, where they ſee appearance to be well ſerved.</p>
+            <p n="12">12. If without great inconvenience the Children of
+Papiſts could be brought up out of their company, it were a happy turn: but I
+find it to be full of difficulty; there is pro<g ref="char:EOLhyphen"/>viſion made to avoid Popiſh
+School-maſters, but there is no ward againſt Popiſh
+School<g ref="char:EOLhyphen"/>miſtreſſes, that infect the ſilly Infants while they carry them
+in their Arms; which mo<g ref="char:EOLhyphen"/>veth <pb n="11" facs="tcp:57340:6"/>me to ſuppoſe, that the
+former propoſition to examine how Children and Ser<g ref="char:EOLhyphen"/>vants are brought up, and
+truly to certifie the Liſt of the Communicants and Recu<g ref="char:EOLhyphen"/>ſants, will be the
+readieſt means to let His Majeſty know the yearly increaſe or de<g ref="char:EOLhyphen"/>creaſe
+of the Church in every <hi>Dioceſs;</hi> and whoſoever ſhall ſend his
+Children, or any of His <hi>Majeſties</hi> Subjects, to be placed in
+<hi>Monaſteries,</hi> or <hi>Seminary Colledges,</hi> or Popiſh<g ref="char:EOLhyphen"/>ly to be
+brought up in Forraign parts; I think that for puniſhment, both the one and
+the other worthily might be disfranchiſed of the <hi>Priviledges</hi> due to
+natural <hi>Engliſh-men,</hi> ſo far forth as any good by the Laws may
+deſcend to them; but not to be exempted from the penalties thereof, or the
+Regal Juriſdicton of the Crown. I know well that contradiction is odious, and
+makes a man ſeem ambitious to be thought more un<g ref="char:EOLhyphen"/>derſtanding than others:
+in which caſe the <hi>Spaniard</hi> uſeth onely to term him
+preſump<g ref="char:EOLhyphen"/>tuous, whom he would call <hi>Fool,</hi> if civility would bear it.
+<hi>But in my Defence I hope it ſhall ſuffice again to revive my former
+proteſtation, that I diſcourſe by the way of propoſiti<g ref="char:EOLhyphen"/>on, rather than
+arrogance of defining any thing; with pardon therefore may I be permitted to
+ſay,</hi> That the firſt eaſie Law of Twelve pence inflicted on him that
+could not give a rea<g ref="char:EOLhyphen"/>ſonable excuſe for his abſence from Church on
+Sundays, was one of the beſt Ordinan<g ref="char:EOLhyphen"/>ces that hath hitherto been enacted: but
+while we ſought to make new <hi>Statutes,</hi> ſa<g ref="char:EOLhyphen"/>vouring of more
+ſeverity, we neglected the old, and were loath to execute the new: for it is
+a certain Rule, that whoſoever in policy will give liberty, and yet ſeem to
+ſup<g ref="char:EOLhyphen"/>preſs a Crime, let him procure ſharp Laws to be proclaimed, which are
+only neceſſary for ſome times, and rare occaſions to be put in
+execution; but not to be an ordinary work for every day of the week. Daily
+uſe likewiſe teacheth us, that it is leſs grievous to puniſh by an old
+Law, than by a new; <hi>Foraſmuch as Truth it ſelf ſeldom gets credit
+without proof, and it is hard to free the people of ſuſpition that new Laws
+are not rather in<g ref="char:EOLhyphen"/>vented againſt the particular perſons and purſes of
+men, than againſt the corrupt manners:</hi> By force of which reaſon, I am
+induced to conceive, that the old uſe of the Church, con<g ref="char:EOLhyphen"/>tained in good
+nurture, and Eccleſiaſtical cenſures, will much more prevail to muzzle
+Popery, than any freſh devices whatſoever. Neither do I think it
+blame-worthy to affirm, that our Cauſe hath taken harm, by relying more on
+the Temporal than the Spi<g ref="char:EOLhyphen"/>ritual Arms: for while we truſted that Capital
+puniſhments ſhould ſtrike the ſtroak, we have neglected the means,
+which would, for the moſt part have diſcharged the need of ſuch
+ſeverity. The <hi>Oath of Allegiance</hi> is not offered generally to
+Servants and mean people; who if they had taken the <hi>Oath,</hi> by
+Abſolution of a <hi>Prieſt</hi> might recoyl from it, or change their
+opinion at leiſure, without any ready means to diſcover their
+<hi>Leger<g ref="char:EOLhyphen"/>demain: That Oath I fear will not be often preſſed; and to them
+that ſhift from place to place, how can it be tendered?</hi> The principal
+Papiſts now cover themſelves in the crowd of the multitude; but if we can
+diſcover the affection of the <hi>multitude,</hi> they eaſily will be
+unmasked, and being ſingled out, reſt aſhamed of their nakedneſs; which
+un<g ref="char:EOLhyphen"/>der correction of better judgment, may be effected, if every new comer to
+inhabit in a Town, and ſervants newly entertained, within a week or fourteen
+days be cauſed to repair to the Miniſter, there in preſence of the
+<hi>Churchwardens,</hi> and other honeſt men, to ſubſcribe unto ſuch
+brief and ſubſtantial Articles concerning <hi>Faith</hi> and
+<hi>Allegiance,</hi> as ſhall be ac<g ref="char:EOLhyphen"/>cording to Gods Word and Juſtice,
+ordained to diſtinguiſh the <hi>Sheep</hi> from the <hi>Goats.</hi> In
+Forreign Countries, every Hoſt is bound to bring his Gueſt before an
+Officer, there to certifie his name, with the occaſion of his coming, and
+intended time of his abode in thoſe parts; and in caſe he ſtay longer,
+<hi>he muſt again renew his Licence: So curious and vigilant alſo are they
+to keep their Cities from Infection, that without a Certificate,
+wit<g ref="char:EOLhyphen"/>neſſing their coming from wholſome places, they may not eſcape the
+Lazeretto. No leſs ought we to be watchful to prevent the contagion of our
+Souls,</hi> than other Nations are of their Bo<g ref="char:EOLhyphen"/>dies. Every thing is hard and
+ſcarcely pleaſing in the beginning, but with time, ſome ſuch courſe
+may be readily put in execution; which I propound rather as matter for better
+heads to work on, than peremptorily to be inſiſted on in the ſame
+<hi>Terms.</hi>
+            </p>
+            <p>But leſt any charge me with <hi>temerity,</hi> that when I
+deſire to know the multitudes in<g ref="char:EOLhyphen"/>clination by the means aforeſaid, I
+ſatisfie my ſelf with their <hi>Parrots</hi> Language, pro<g ref="char:EOLhyphen"/>nouncing it
+knows not what; I think it not impertinent to put them in mind, that heretofore
+I have required inſtructions, <hi>both precedent and ſubſequent,</hi> and
+am ever of the mind, <hi>That although all this cannot be done at once, yet it
+is neceſſary always to be do<g ref="char:EOLhyphen"/>ing our beſt, knowing, that not to go
+forwards in Religion, is the ready way to go backwards.</hi> It is not the
+outward obedience of coming to Church, that diſcovers the inward thought of
+the Heart, it is the confeſſion of the Tongue that muſt utter theſe
+<hi>ſecrets. <pb n="12" facs="tcp:57340:7" rendition="simple:additions"/>And where the Curates are
+inſufficient, or the Pariſh great, I wiſh they had Catechiſts to
+aſſiſt them, maintained by the Purſes of the Recuſants;</hi> which
+Penſion being collected for Gods Cauſe, will free us of ſcandal, though
+it grieve them to pay the Spiritual Army wa<g ref="char:EOLhyphen"/>ged againſt their own
+<hi>Stratagems.</hi> Surely by giving them way in petty matters, they are grown
+to be very maſterful in their Party. <hi>Plato</hi> affirmeth, <hi>That the
+Popular State proceeded from the Licence which the people took to make
+immoderate applauſes in the Thea<g ref="char:EOLhyphen"/>ters:</hi> when as by arrogating that
+immunity without controlement in place of their Governours; and perceiving the
+<hi>Nobility</hi> to joyn with them in the ſame paſſions, they thought
+their Heads as worthy to Govern, as any of thoſe that were made out of the
+ſelf-ſame mould. In like manner, while we ſuffer ignorance openly to
+maintain ſuch petty glimpſes of Popery, as are thought to be ſcarce
+worthy to be look't at, and in ſmall matters run an indifferent courſe,
+which neither make ſure Friends, nor feeble Foes, unawares they take the
+bridle from us, and eat out Religion as it were by an in<g ref="char:EOLhyphen"/>ſenſible
+<hi>Gangrena.</hi>
+            </p>
+            <q> 
+               <l>
+                  <hi>Principiis obſta, ſerò medicina paratur,</hi>
+               </l>
+
+               <l>
+                  <hi>Cum mala per longas convaluere moras.</hi>
+               </l>
+            </q>
+            <p>For by ſufferance of breaking ſmaller Laws, People are
+emboldned to ſet the greater at nought.</p>
+            <p>To comprehend all things in a Law, which are neceſſary to the
+Reformation, I neither hold it profitable nor expedient; yet it is diſcretion
+to provide for the moſt important; ſmaller matters, whereof the Laws
+ſpeak not, are to be commended to the diſcretion of Parents, Maſters, and
+other reverend perſons, who by example and advice, may prepare younglings by
+Education and Cuſtom to obey the Laws; eſpeci<g ref="char:EOLhyphen"/>ally ſuch as are in high
+place, ought in this behalf to be like <hi>Caeſars</hi> Wife: <hi>Non ſolum
+crimine, ſed etiam criminis ſuſpitione vacare;</hi> and with
+circumſpection to behave them<g ref="char:EOLhyphen"/>ſelves, that the world may conceive in
+requiring obedience to God and their Sove<g ref="char:EOLhyphen"/>raign, that they hold the multitude
+rather for companions than ſlaves: if great men take another way, they may
+ſeduce many by example, though by words they expreſs not their concealed
+opinions; <hi>Tace &amp; loquere, ſaid God to Moſes;</hi> it is the
+ſpeech of the heart, that utters more than words and ſyllables: and in our
+Common Laws it is held Maintenance, when a great Perſonage onely by his
+preſence countenanceth a Cauſe. Neither let us ſecure our ſelves with
+this Argument; The Papiſts are plyable in ſmall matters, <hi>ergo,</hi>
+they will yield in greater; and becauſe they took no Arms in 88. there<g ref="char:EOLhyphen"/>fore
+it were needleſs curioſity to ſuſpect them now; for who knows not that
+ſmall baits are uſed to take the greateſt Fiſh, <hi>
+                  <g ref="char:V">Ʋ</g>t cum eſca una
+etiam hamus devoretur?</hi> Warineſs is the ſinews of wiſdom; and nothing
+is more dangerous, than to be ſecure in matters of State: therefore for the
+Laws already made, I wiſh that the moſt effectual of them, which leaſt
+concerns life, may be executed; for better it were not to make them, than by
+neglect to ſet them at liberty, ſeeing many offences there are, which men
+would abſtain from if they were forbidden; but when a ſtrict commandment is
+avoided with<g ref="char:EOLhyphen"/>out puniſhment, thereout ſprings an unbridled Licence, hardly
+to be reformed by any rigour.</p>
+            <p>To conclude, I ſay freely, that whoſo endeth his days by a
+natural death, he ſhall be ſubject to receive many mens dooms for every
+particular offence; but when for Re<g ref="char:EOLhyphen"/>ligions ſake, a man triumpheth over the
+ſword, that one eminent vertue razeth out the memory of other errours, and
+placeth him that ſo dyeth in Paradice, if common opinion may be lawfully
+vouched; <hi>which glory having many followers and admirers, awa<g ref="char:EOLhyphen"/>keth even dull
+ſpirits to affect their footſteps, and to ſell their lives for the
+maintainance of the ſame Cauſe.</hi> I need not envy the name of a Martyr
+to the Jeſuit; for his Cauſe, if it be rightly weighed, will blanch that
+Title; but I deſire to have all thoſe lineaments defa<g ref="char:EOLhyphen"/>ced, which may
+compound that counterfeit Image: in proſecuting of which purpoſe, if I have
+failed in my advice, and by confuſed handling intricated the queſtion, I
+humbly requeſt, that a wiſe mans verdict may mitigate the heavineſs of
+that cenſure. It is neither good to praiſe <hi>bad</hi> Counſels,
+becauſe of their <hi>good ſucceſs;</hi> nor to condemn good Counſels,
+if the Events prove not <hi>fortunate;</hi> leſt many be animated to adviſe
+raſh<g ref="char:EOLhyphen"/>ly, and others diſheartned to counſel gravely.</p>
+            <epigraph>
+               <q> 
+                  <l>
+                     <hi>Illi mors gravis ineubat,</hi>
+                  </l> 
+                  <l>
+                     <hi>Qui notus nimis omnibus,</hi>
+                  </l> 
+                  <l>
+                     <hi>Ignotus moritur ſibi.</hi>
+                  </l> 
+                  <bibl>Senec. Trag.</bibl>
+               </q>
+               <q> 
+                  <l>His death deſerveth more than common blame,</l> 
+                  <l>Whom all men knew too well, and yet alone,</l> 
+                  <l>(Alas!) he dyes unto himſelf unknown.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57340:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
